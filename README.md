@@ -1,2 +1,3 @@
-# datasciencefromscratch-bostonhousing
-Data Science from Scratch with Boston Housing dataset
+# Data Science from Scratch with the Boston Housing dataset
+
+
