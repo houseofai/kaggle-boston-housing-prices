@@ -1,3 +1,5 @@
-# Data Science from Scratch with the Boston Housing dataset
+# Boston Housing Prices challenge from Kaggle
+
+Reach 0.115 RMSE
 
 
